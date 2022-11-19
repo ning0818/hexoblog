@@ -307,7 +307,7 @@ article:
               desc: 本文来自互联网，未知来源，侵权请联系删除。
             type5:
               text: 允许规范转载
-              desc: 转载请保留本文转载地址，著作权归作者所有！
+              desc: 转载请保留本文转载地址，著作权归作者所有！个人博客，不盈利，若侵犯到了您的作品权，请联系作者删除，莫恶意，索钱财，感谢！
             type6:
               text: 允许付费转载
               desc: 您可以联系作者通过付费方式获得授权。
@@ -325,7 +325,7 @@ article:
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
         avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: 请设置文章作者
+        name: 阳光下的小宁宁
         url: /
       # 文章创建日期
       date:
