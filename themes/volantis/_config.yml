@@ -876,6 +876,7 @@ plugins:
     exclude:             # 被屏蔽的 url 地址将不启用 pjax 跳转，可以在控制台下使用 window.location.pathname 获取
       # - '/artitalk/'   # artitalk 不支持 pjax
       # - '/bbtalk/'     # bbtalk 不支持 pjax
+        - '/friends/' 
 
   # pace
   # An automatic web page progress bar.
