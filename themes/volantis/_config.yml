@@ -529,7 +529,7 @@ comments:
     comment: true  # 是否显示文章评论数
     # 其他配置项按照yml格式继续填写即可 除了 [el path imageUploader] 选项
     # 组件属性地址：https://waline.js.org/reference/component.html
-    meta: ['nick', 'mail']
+    # meta: ['nick', 'mail']
 
   # Discuss
   # https://discuss.js.org
