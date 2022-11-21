@@ -680,7 +680,7 @@ tag_plugins:
     color: '' # color for default checkbox
   # {% link title, url, img %}
   link:
-    placeholder:  volantis-static/media/org.volantis/logo/256/safari.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/256/safari.png
+    placeholder:  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/256/safari.png
 ############################### Tag Plugins ############################### > end
 
 
@@ -800,8 +800,8 @@ plugins:
  
   # 视差滚动效果 Slide Background
   parallax:
-    enable: #true
-    position: cover       # cover: sticky on the cover.   fixed: Fixed as background for the site.
+    enable: true
+    position: fixed       # cover：粘在封面上。fixed：固定为网站背景。
     shuffle: true         # shuffle playlist
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
@@ -870,7 +870,9 @@ plugins:
     enable: true
     cover: true          # 封面是否pjax处理 false：每次切换页面封面都重载，适合封面较少的情况 true：封面经过Pjax处理，适合封面较多的情况
     timeout: 5000        # The timeout in milliseconds for the XHR requests. Set to 0 to disable the timeout.
-    cacheBust: false     # When set to true, Pjax appends a timestamp  to skip the browser cache.
+    cacheBust: false     # 当设置为true时，Pjax会附加一个时间戳以跳过浏览器缓存。
+    animation: nprogress # false, nprogress, circle
+    nprogress: volantis-static/libs/nprogress/nprogress.js # https://unpkg.com/nprogress@0.2.0/nprogress.min.js
     exclude:             # 被屏蔽的 url 地址将不启用 pjax 跳转，可以在控制台下使用 window.location.pathname 获取
       # - '/artitalk/'   # artitalk 不支持 pjax
       # - '/bbtalk/'     # bbtalk 不支持 pjax
@@ -889,7 +891,7 @@ plugins:
   #   icon: fa-solid fa-moon # 可自定义
   #   toggle: darkmode
   darkmode:
-    enable: #true
+    enable: true
 
   # 旧版 Internet Explorer 淘汰行动
   # https://www.microsoft.com/zh-cn/WindowsForBusiness/End-of-IE-support
@@ -1217,13 +1219,13 @@ color_scheme:
 custom_css:
   cursor:
     enable: #true
-    text: volantis-static/media/cursor/text.png # https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/text.png
-    pointer: volantis-static/media/cursor/pointer.png # https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/pointer.png
-    default: volantis-static/media/cursor/left_ptr.png # https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/left_ptr.png
-    not-allowed: volantis-static/media/cursor/circle.png # https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/circle.png
-    zoom-out: volantis-static/media/cursor/zoom-out.png # https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/zoom-out.png
-    zoom-in: volantis-static/media/cursor/zoom-in.png # https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/zoom-in.png
-    grab: volantis-static/media/cursor/openhand.png # https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/openhand.png
+    text: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/text.png
+    pointer: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/pointer.png
+    default: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/left_ptr.png
+    not-allowed: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/circle.png
+    zoom-out: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/zoom-out.png
+    zoom-in: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/zoom-in.png
+    grab: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/openhand.png
   font_smoothing: true # font-smoothing for webkit
   max_width: 1080px # Sum of body width and sidebar width (This limit will be exceeded when the device width is greater than 2000px, reaching 75% of the total width)
   scrollbar:
