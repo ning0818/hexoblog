@@ -27,4 +27,8 @@ twikoo:
 编程 唱歌
 联系方式
 邮箱：yuanning0818@foxmail.com
+### 特别感谢：
+<div class="btns circle grid5">
+            <a class="button" target="_blank" rel="noopener" href="https://www.yt-blog.top" title="动荡の初二少年"><img src="https://img.yt-blog.top/logo.png">一个少年的博客</a>
+          </div>
 
