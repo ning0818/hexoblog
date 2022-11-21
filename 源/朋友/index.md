@@ -3,10 +3,10 @@ layout: friends # 必须
 title: 我的朋友们 # 可选，这是友链页的标题
 ---
 我的友链（会变）
-名称：阳光下的小宁宁
+名称：阳光下的小宁宁の博客
 简介：一个少年的博客
-链接：www.yuanning0818.com
-LOGO：www.yuanning0818.com/logo.png
+链接：www.yuanning0818.tk
+LOGO：www.yuanning0818.tk/logo.png
 
 ----------------------
 友链申请方式：
