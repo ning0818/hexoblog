@@ -181,10 +181,10 @@ cover:
       icon: #
       img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
       url: /say/
-    - name: 示例
+    - name: 友链
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f396.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
-      url: /examples/
+      url: /friends/
     - name: 社区
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
@@ -196,7 +196,7 @@ cover:
     - name: 源码
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://github.com/ning0818/ning0818.github.io.git
+      url: https://github.com/ning0818/hexoblog.git
 ############################### Cover ############################### > end
 
 pages:
