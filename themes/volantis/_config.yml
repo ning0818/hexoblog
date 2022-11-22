@@ -687,7 +687,7 @@ tag_plugins:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, info, copyright]
+  layout: [aplayer, social, license, info, copyright, icp]
   social:
     - icon: #fa-solid fa-rss
       url:
@@ -705,6 +705,7 @@ site_footer:
     <span>访客数为 <span id='busuanzi_value_site_uv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
   # site copyright
   copyright: '[Copyright © 2022 阳光下的小宁宁 版权所有](/)'
+  icp: '<a href="https://icp.gov.moe/?keyword=20221982" target="_blank">萌ICP备20221982号</a>'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
 ############################### Site Footer ############################### > end
