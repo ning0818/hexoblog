@@ -2,7 +2,7 @@
 layout: friends # 必须
 title: 我的朋友们 # 可选，这是友链页的标题
 ---
-我的友链（会变）
+## 我的友链（会变）
 名称：阳光下的小宁宁
 简介：一个少年的博客
 链接：https://www.yuanning0818.tk
@@ -10,7 +10,7 @@ LOGO：https://www.yuanning0818.tk/logo.png
 
 <!-- more -->
 
-[友联管理(博主专用)](https://admin.yuanning0818.tk/friends.html)
+## [友联管理(博主专用)](https://admin.yuanning0818.tk/friends.html)
 
 <div class="friends-group"><div id="friend-content" class="friend-content"></div></div>
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
@@ -21,7 +21,7 @@ LOGO：https://www.yuanning0818.tk/logo.png
 
 ## 友链申请
 
-请勿多次提交
+请勿多次提交(提示:友链提交后可能会有报错的情况，属于正常情况，不影响友链申请的接收)
 
 <div id="friends-api"></div>
 <script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
