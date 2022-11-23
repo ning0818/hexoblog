@@ -189,10 +189,6 @@ cover:
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: /archives/
-     - name: 后台
-      icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
-      url: /admin/
     - name: 源码
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
@@ -1089,7 +1085,7 @@ rightmenus:
       - {id: 'contributors', name: '碎语', icon: 'fa-solid fa-fan', link: 'https://www.yuanning0818.tk/say', group: 'link'}
       - hr
       - {id: 'source_docs', name: '本站源码', icon: 'fa-solid fa-code-branch', link: 'https://github.com/ning0818/hexoblog.git', group: 'link'}
-      - {id: 'source_theme', name: '本站后台', icon: 'fa-solid fa-code-branch', link: 'https://admin.yuanning0818.tk/', group: 'link'}
+      - {id: 'source_theme', name: '本站后台', icon: 'fa-solid fa-code-branch', link: 'https://admin.yuanning0818.tk', group: 'link'}
     darkMode:
       - {id: 'darkMode', name: '暗黑模式', icon: 'fa-solid fa-moon', event: 'volantis.dark.toggle()', group: 'darkMode'}
 ###
