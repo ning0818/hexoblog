@@ -706,9 +706,7 @@ site_footer:
   # site copyright
   copyright: '[Copyright © 2022 阳光下的小宁宁 版权所有](/)'
   icp: '<a href="https://icp.gov.moe/?keyword=20221982" target="_blank">萌ICP备20221982号</a>'
-  ssl: '<div id="cc-myssl-id">
-      <a href="https://myssl.com/www.yuanning0818.tk?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a>
-</div>'
+  ssl: '<div id="cc-myssl-id"><a href="https://myssl.com/www.yuanning0818.tk?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a></div>'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
 ############################### Site Footer ############################### > end
