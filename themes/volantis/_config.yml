@@ -545,9 +545,9 @@ comments:
 sidebar:
   position: right # left right
   # 主页、分类、归档等独立页面
-  for_page: [blogger, category, tagcloud, donate]
+  for_page: [blogger, webinfo, category, tagcloud, donate, friends]
   # layout: docs/post 这类文章页面
-  for_post: [toc]
+  for_post: [toc, webinfo, tagcloud, friends]
   # 侧边栏组件库
   widget_library:
     # ---------------------------------------
@@ -639,7 +639,7 @@ sidebar:
           text: '已运行时间：'
           unit: '天'
         wordcount:
-          enable: false
+          enable: true
           text: '本站总字数：'   # 需要启用 wordcount
           unit: '字'
         visitcounter:
@@ -663,6 +663,20 @@ sidebar:
       header:
         icon: fa-solid fa-clock WISTERIA
         title: 最近更新
+    # --------------------------------------
+    # friends
+    friends:
+      class: text
+      display: [desktop] # [desktop, mobile]
+      header:
+        title: 友链
+        icon: fas fa-link
+        url: /friends/
+      content:
+      - <ul class="list entry navigation" id="list entry navigation"></ul>
+      - <link rel="stylesheet" href="https://unpkg.com/qexo-static/hexo/friends/friends.css"/>
+      - <script src="https://unpkg.com/qexo-friends/volantis/side-friends.js"></script>
+      - <script>loadQexoFriends("list entry navigation", "https://admin.yuanning0818.tk")</script>
 ############################### Sidebar ############################### > end
 
 
@@ -781,7 +795,7 @@ plugins:
   ######## Plugins for Count:
   # npm i hexo-wordcount
   wordcount:
-    enable: #true
+    enable: true
 
   busuanzi:
     enable: #true
@@ -1105,9 +1119,9 @@ search:
   algolia:
     searchAsYouType: true # If false, triggers the search only on submit.
     hitsPerPage: 5 # Set the number of hits per page.
-    placeholder: 'Search...' # The placeholder text of the input.
+    placeholder: '搜索...' # The placeholder text of the input.
   meilisearch:
-    placeholder: 'Search...'
+    placeholder: '搜索...'
     searchKey: ''
     indexName: ''
     hostUrl: ''
