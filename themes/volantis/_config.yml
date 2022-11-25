@@ -154,7 +154,7 @@ navbar:
     - name: 关于
       icon: fa-solid fa-info-circle
       url: about/
-    search: Search...   # Search bar placeholder
+      search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
 
