@@ -159,6 +159,7 @@ navbar:
       - name: 关于
         icon: fa-solid fa-info-circle
         url: https://baidu.yuanning0818.tk
+    
   search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
