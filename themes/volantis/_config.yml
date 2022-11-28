@@ -1266,7 +1266,7 @@ color_scheme:
 ############################### Custom css ############################### > start
 custom_css:
   cursor:
-    enable: #true
+    enable: true
     text: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/text.png
     pointer: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/pointer.png
     default: https://cdn.jsdelivr.net/gh/inkss/common@1/cursor/left_ptr.png
