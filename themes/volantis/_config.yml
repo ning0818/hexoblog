@@ -157,6 +157,16 @@ navbar:
     - name: 让我帮你百度一下
       icon: https://baidu.yuanning0818.tk/img/baidu_logo.png
       url: https://baidu.yuanning0818.tk
+    -{% menu 下拉菜单 %}
+{% menuitem 主题源码::https://github.com/volantis-x/hexo-theme-volantis/::fas fa-file-code %}
+{% menuitem 更新日志::https://github.com/volantis-x/hexo-theme-volantis/releases/::fas fa-clipboard-list %}
+{% menuitem hr %}
+{% submenu 有疑问？::fas fa-question-circle %}
+{% menuitem 看 FAQ::/faqs/ %}
+{% menuitem 看 本站源码::https://github.com/volantis-x/volantis-docs/ %}
+{% menuitem 提 Issue::https://github.com/volantis-x/hexo-theme-volantis/issues/ %}
+{% endsubmenu %}
+{% endmenu %}
       search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
