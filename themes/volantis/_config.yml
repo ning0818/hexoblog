@@ -205,10 +205,18 @@ cover:
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: https://admin.yuanning0818.tk
-    - name: 源码
-      icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://github.com/ning0818/hexoblog.git
+    - name: 更多
+      icon: fa-solid fa-ellipsis-v
+      rows:
+        - name: 让我帮你百度一下
+          icon: https://baidu.yuanning0818.tk/img/baidu_logo.png
+          url: https://baidu.yuanning0818.tk
+        - name: 让我帮你必应一下
+          icon: https://bing.yuanning0818.tk/img/baidu_logo.png
+          url: https://bing.yuanning0818.tk
+        - name: 新冠疫情实时图
+          icon: 
+          url: yiqing/
 ############################### Cover ############################### > end
 
 pages:
