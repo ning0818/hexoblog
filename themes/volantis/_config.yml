@@ -183,7 +183,7 @@ cover:
   logo: https://i.postimg.cc/268Dp92r/image.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: '阳光下的小宁宁の博客'
   subtitle: ''
-  search: 搜索…… # search bar placeholder
+  search: 搜点什么…… # search bar placeholder
   features:
     - name: 工具箱
       icon: #
