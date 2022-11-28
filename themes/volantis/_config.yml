@@ -684,17 +684,6 @@ sidebar:
         icon: fa-solid fa-clock WISTERIA
         title: 最近更新
     # --------------------------------------
-    # gonggao
-    repos:
-      class: text
-      display: [desktop] # [desktop, mobile]
-      header:
-        icon: fab fa-github
-        title: 公告
-        url: https://github.com/xaoxuu/
-      content:
-    - ' 建站完成'
-    # --------------------------------------
     # friends
     friends:
       class: text
