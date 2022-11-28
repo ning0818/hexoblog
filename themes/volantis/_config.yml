@@ -269,7 +269,7 @@ article:
       # 文章推荐 (for layout: post/docs)
       # 推荐算法需要依赖中文分词工具，nodejieba只支持中英文 npm i nodejieba -S
       recommended_article:
-        enable: false
+        enable: true
         layout: ["post", "docs"]
         title: 推荐阅读
         icon: fa-solid fa-bookmark
@@ -284,7 +284,7 @@ article:
       # 相关文章，需要安装插件 (for layout: post)
       # npm i hexo-related-popular-posts
       related_posts:
-        enable: false
+        enable: true
         title: 相关文章
         icon: fa-solid fa-bookmark
         max_count: 5
@@ -297,6 +297,7 @@ article:
         permalink: '本文永久链接是：'
         content:
           - '博客内容遵循:署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议'
+          - '个人博客，不盈利，若侵犯到了您的作品权，请联系作者删除，莫恶意，索钱财，感谢！'
           - permalink
          # 自定义版权组件：精细到文章的版权声明
         custom: false # 开启后替代上方内容的版权显示
