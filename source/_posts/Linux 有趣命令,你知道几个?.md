@@ -1,10 +1,12 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - Linux
 date: '2022-11-28 07:46:59'
-tags: []
+tags:
+- Linux
 title: Linux 有趣命令,你知道几个?
-updated: '2022-11-28 07:47:02'
+updated: '2022-11-28 14:02:22'
 ---
 **1. sl 命令**
 
@@ -73,10 +75,10 @@ sl是指“steam locomotive（蒸汽机车）”，你会看到一辆火车从�
 
 安装  `$sudo apt-get install figlet`
 
-  $sudo apt-get install toilet
+$sudo apt-get install toilet
 运行  `$figlet I Love YOU Rom-Qian`
 
-  $toilet I Love You  Rom-Qian
+$toilet I Love You  Rom-Qian
 ![](https://i.postimg.cc/59R1zbxy/image.png)
 
 toilet还可以添加颜色，里面的选项请自己man一下
@@ -132,6 +134,7 @@ cal是打印日历，不过这个是很奇葩的一个月
 ```
 $ factor 60
 ```
+
 ![](https://i.postimg.cc/wjBGQs0d/image.png)
 
 **12.** 挨个敲下面这一堆, aptitude没有的可以安装上
@@ -147,6 +150,7 @@ aptitude -vvvvv moo
 aptitude -vvvvvv moo
 aptitude -vvvvvvv moo
 ```
+
 运行结果：
 
 ![](https://i.postimg.cc/d3vWk7Lp/image.png)
