@@ -1,10 +1,12 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - Linux
 date: '2022-11-28 16:02:09'
-tags: []
+tags:
+- Linux
 title: Linux 有趣命令,你知道几个?
-updated: '2022-11-28 16:02:11'
+updated: '2022-11-28 16:03:49'
 ---
 **1. sl 命令**
 
