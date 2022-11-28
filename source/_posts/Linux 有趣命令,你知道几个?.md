@@ -1,7 +1,7 @@
 ---
 abbrlink: ''
 categories:
-- - Linux
+- Linux
 date: '2022-11-28 07:46:59'
 tags:
 - Linux
