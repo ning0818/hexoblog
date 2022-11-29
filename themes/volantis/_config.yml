@@ -167,11 +167,14 @@ navbar:
           icon: fa-sharp fa-solid fa-magnifying-glass
           url: https://bing.yuanning0818.tk
         - name: 网站状态监测
-          icon: fa-sharp fa-solid fa-message
+          icon: fa-sharp fa-solid fa-eye
           url: https://status.yuanning0818.tk/
         - name: 新冠疫情实时图
           icon: fa-sharp fa-solid fa-chart-simple
           url: yiqing/
+        - name: 后台管理
+          icon: fa-duotone fa-database fa-fw
+          url: https://admin.yuanning0818.tk
       search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
 
@@ -647,8 +650,6 @@ sidebar:
         title: 公告
         url: #
       rows:
-        - name: 建站完成
-          url: #
         - name: 本站替换了原系统右键菜单，访问原系统右键菜单请按Ctrl+右键
           url: #
     # ---------------------------------------
