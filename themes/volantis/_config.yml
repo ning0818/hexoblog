@@ -653,6 +653,18 @@ sidebar:
         - name: 本站替换了原系统右键菜单，访问原系统右键菜单请按Ctrl+右键
           url: #
     # ---------------------------------------
+    # tagcloud widget
+    guanggao:
+      class: guanggao
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-sharp fa-solid fa-bell
+        title: 广告
+        url: #
+      rows:
+        - name: 一个可以查看后自动删除的简易笔记本，支持MrakDown
+          url: https://secret.yt-blog.top/
+    # ---------------------------------------
     # qrcode widget
     qrcode:
       class: qrcode
