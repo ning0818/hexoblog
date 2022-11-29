@@ -170,7 +170,7 @@ navbar:
           icon: fa-sharp fa-solid fa-message
           url: https://status.yuanning0818.tk/
         - name: 新冠疫情实时图
-          icon: fa-sharp fa-solid fa-signal-bars
+          icon: fa-sharp fa-solid fa-chart-simple
           url: yiqing/
       search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
