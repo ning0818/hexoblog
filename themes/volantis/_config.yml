@@ -678,15 +678,6 @@ sidebar:
           friendlyShow: true    # 更友好的时间显示
           text: '最后活动时间：'
           unit: '日'
-    post:
-      class: text
-      display: [desktop, mobile] # [desktop, mobile]
-      sticky: true
-      header:
-        icon: fa-solid fa-plus
-        title: 公告
-      content:
-        - '**·建站完成**'
     # ---------------------------------------
     # lastupdate widget
     lastupdate:
@@ -709,6 +700,20 @@ sidebar:
       - <link rel="stylesheet" href="https://unpkg.com/qexo-static/hexo/friends/friends.css"/>
       - <script src="https://unpkg.com/qexo-friends/volantis/side-friends.js"></script>
       - <script>loadQexoFriends("list entry navigation", "https://admin.yuanning0818.tk")</script>
+    # --------------------------------------
+    # zan
+    repos:
+      class: text
+      display: [desktop] # [desktop, mobile]
+      header:
+        icon: fab fa-github
+        title: 点个赞吧
+        url: https://github.com/xaoxuu/
+      content:
+    - '您的赞对我来说很重要，如果您喜欢本主题，希望能够给下面的项目点个赞来支持一下。'
+    - '[<img src="https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/logo.png" height="50px">](https://github.com/xaoxuu/ProHUD)'
+    - '[<img src="https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/valuex/logo.png" height="50px">](https://github.com/xaoxuu/ValueX)'
+    - '[<img src="https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/inspire/logo.png" height="50px">](https://github.com/xaoxuu/Inspire)'
 ############################### Sidebar ############################### > end
 
 
@@ -752,7 +757,7 @@ site_footer:
   # site copyright
   copyright: '[Copyright © 2022 阳光下的小宁宁 版权所有](/)'
   icp: '<a href="https://icp.gov.moe/?keyword=20221982" target="_blank">萌ICP备20221982号</a>'
-  ssl: '<div id="cc-myssl-id"><a href="https://myssl.com/www.yuanning0818.tk?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a></div>'
+  ssl: '<div id="cc-myssl-id"><a href="https://myssl.com/www.yuanning0818.tk?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50p;display:block;margin:0 auto"></a></div>'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
 ############################### Site Footer ############################### > end
