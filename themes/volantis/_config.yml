@@ -696,7 +696,7 @@ sidebar:
         title: 公告
         url: https://github.com/xaoxuu/
       content:
-    - '·建站完成'
+        - '·建站完成'
     # --------------------------------------
     # friends
     friends:
