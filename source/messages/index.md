@@ -1,16 +1,8 @@
-
-
-
-<article itemscope="" itemtype="http://schema.org/Article" class="article post white-box reveal md blur article-type-page" id="page" itemprop="blogPost">
-  <link itemprop="mainEntityOfPage" href="http://windback.xyz/messages/index.html">
-  <span hidden="" itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="WindBack的小站">
-  </span>
-  <span hidden="" itemprop="post" itemscope="" itemtype="http://schema.org/Post">
-    <meta itemprop="name" content="WindBack的小站">
-    <meta itemprop="description" content="各自努力，山顶再见。">
-  </span>
-  
+---
+layout: messages # 必须
+title: 留言板 # 可选，这是友链页的标题
+---
+ 
 
 
   
