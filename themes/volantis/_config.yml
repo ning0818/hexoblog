@@ -725,7 +725,7 @@ tag_plugins:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, copyright, icp, ssl, downloadonly]
+  layout: [aplayer, social, license, copyright, analytics, icp, downloadonly, ssl]
   social:
     - icon: fa-solid fa-rss
       url: atom.xml
