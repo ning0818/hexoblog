@@ -161,16 +161,16 @@ navbar:
       icon: fa-solid fa-ellipsis-v
       rows:
         - name: 让我帮你百度一下
-          img: https://baidu.yuanning0818.tk/img/baidu_logo.png
+          icon: fa-sharp fa-solid fa-magnifying-glass
           url: https://baidu.yuanning0818.tk
         - name: 让我帮你必应一下
-          img: https://bing.yuanning0818.tk/img/baidu_logo.png
+          icon: fa-sharp fa-solid fa-magnifying-glass
           url: https://bing.yuanning0818.tk
         - name: 网站状态监测
-          img: https://baidu.yuanning0818.tk/img/baidu_logo.png
+          icon: fa-sharp fa-solid fa-message
           url: https://status.yuanning0818.tk/
         - name: 新冠疫情实时图
-          icon: 
+          icon: fa-sharp fa-solid fa-signal-bars
           url: yiqing/
       search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
