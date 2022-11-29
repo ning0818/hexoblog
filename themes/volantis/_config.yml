@@ -646,7 +646,7 @@ sidebar:
       class: list
       display: [desktop, mobile] # [desktop, mobile]
       header:
-        icon: fa-duotone fa-bullhorn AMETHYST fa-fw
+        icon: fa-sharp fa-solid fa-megaphone
         title: 公告
         url: #
       rows:
