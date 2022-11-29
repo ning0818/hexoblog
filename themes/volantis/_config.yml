@@ -701,19 +701,6 @@ sidebar:
       - <script src="https://unpkg.com/qexo-friends/volantis/side-friends.js"></script>
       - <script>loadQexoFriends("list entry navigation", "https://admin.yuanning0818.tk")</script>
     # --------------------------------------
-    # zan
-    repos:
-      class: text
-      display: [desktop] # [desktop, mobile]
-      header:
-        icon: fab fa-github
-        title: 点个赞吧
-        url: https://github.com/xaoxuu/
-      content:
-        - '您的赞对我来说很重要，如果您喜欢本主题，希望能够给下面的项目点个赞来支持一下。'
-        - '[<img src="https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/logo.png" height="50px">](https://github.com/xaoxuu/ProHUD)'
-        - '[<img src="https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/valuex/logo.png" height="50px">](https://github.com/xaoxuu/ValueX)'
-        - '[<img src="https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/inspire/logo.png" height="50px">](https://github.com/xaoxuu/Inspire)'
 ############################### Sidebar ############################### > end
 
 
@@ -760,6 +747,7 @@ site_footer:
   ssl: '<div id="cc-myssl-id"><a href="https://myssl.com/www.yuanning0818.tk?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50p;display:block;margin:0 auto"></a></div>'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
+  downloadonly: '[本站已进入自建下载](/)'
 ############################### Site Footer ############################### > end
 
 ############################### Plugins ############################### > start
