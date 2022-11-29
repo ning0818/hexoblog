@@ -155,7 +155,7 @@ navbar:
       icon: fa-solid fa-info-circle
       url: about/
     - name: 留言板
-      icon: fa-solid fa-info-circle
+      icon: fa-sharp fa-solid fa-message
       url: messages/
     - name: 更多
       icon: fa-solid fa-ellipsis-v
