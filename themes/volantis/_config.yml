@@ -640,7 +640,7 @@ sidebar:
       class: list
       display: [desktop, mobile] # [desktop, mobile]
       header:
-        icon: fas fa-chevron-left
+        icon: fa-solid fa-award
         title: 公告
         url: #
       rows:
