@@ -1,4 +1,4 @@
-  ---
+---
 layout: docs
 seo_title: 新冠实时疫情图
 bottom_meta: true
