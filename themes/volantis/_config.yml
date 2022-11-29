@@ -686,6 +686,15 @@ sidebar:
       header:
         icon: fa-solid fa-clock WISTERIA
         title: 最近更新
+    post:
+      class: text
+      display: [desktop, mobile] # [desktop, mobile]
+      sticky: true
+      header:
+        icon: fa-solid fa-plus
+        title: 公告
+      content:
+        - '**·建站完成**'
     # --------------------------------------
     # friends
     friends:
