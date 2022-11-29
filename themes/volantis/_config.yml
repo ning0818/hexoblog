@@ -173,7 +173,7 @@ navbar:
           icon: fa-sharp fa-solid fa-chart-simple
           url: yiqing/
         - name: 后台管理
-          icon: fa-duotone fa-database fa-fw
+          icon: fa-sharp fa-solid fa-screwdriver-wrench
           url: https://admin.yuanning0818.tk
       search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
