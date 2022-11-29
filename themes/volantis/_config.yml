@@ -568,9 +568,9 @@ comments:
 sidebar:
   position: right # left right
   # 主页、分类、归档等独立页面
-  for_page: [blogger, webinfo, category, tagcloud, donate, friends, lastupdate]
+  for_page: [blogger, webinfo, category, tagcloud, donate, friends, list, lastupdate]
   # layout: docs/post 这类文章页面
-  for_post: [toc, webinfo, tagcloud, friends, lastupdate]
+  for_post: [toc, webinfo, tagcloud, friends, list, lastupdate]
   # 侧边栏组件库
   widget_library:
     # ---------------------------------------
@@ -634,6 +634,18 @@ sidebar:
       color: true
       start_color: '#999'
       end_color: '#555'
+    # ---------------------------------------
+    # tagcloud widget
+    list:
+      class: list
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fas fa-chevron-left
+        title: 公告
+        url: #
+      rows:
+        - name: 建站完成
+          url: #
     # ---------------------------------------
     # qrcode widget
     qrcode:
