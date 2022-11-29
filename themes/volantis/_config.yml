@@ -212,7 +212,7 @@ cover:
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: https://admin.yuanning0818.tk
     - name: 更多
-      icon: fa-solid fa-ellipsis-v
+      icon: #
       rows:
         - name: 让我帮你百度一下
           img: https://baidu.yuanning0818.tk/img/baidu_logo.png
@@ -643,11 +643,13 @@ sidebar:
       class: list
       display: [desktop, mobile] # [desktop, mobile]
       header:
-        icon: fa-solid fa-award
+        icon: fa-duotone fa-bullhorn AMETHYST fa-fw
         title: 公告
         url: #
       rows:
         - name: 建站完成
+          url: #
+        - name: 本站替换了原系统右键菜单，访问原系统右键菜单请按Ctrl+右键
           url: #
     # ---------------------------------------
     # qrcode widget
