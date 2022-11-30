@@ -1123,7 +1123,7 @@ rightmenus:
       - {id: 'copyText', name: '复制文本', icon: 'fa-solid fa-copy', event: 'copyText', group: 'seletctText'}
       - {id: 'searchWord', name: '站内搜索', icon: 'fa-solid fa-search', event: 'OpenSearch(__text__)', group: 'seletctText'}
       - {id: 'bingSearch', name: '必应搜索', icon: 'fa-solid fa-search', event: 'window.open(`https://cn.bing.com/search?q=${__text__}`)', group: 'seletctText'}
-      #- {id: 'googleSearch', name: '谷歌搜索', icon: 'fa-solid fa-search', event: 'window.open(`https://www.google.com/search?q=${__text__}`)', group: 'seletctText'}
+      - {id: 'googleSearch', name: '谷歌搜索', icon: 'fa-solid fa-search', event: 'window.open(`https://www.google.com/search?q=${__text__}`)', group: 'seletctText'}
     # 链接判断组件
     # 生效于链接处的右键行为，__link__ 为链接地址
     elementCheck:
@@ -1146,10 +1146,9 @@ rightmenus:
       - {id: 'examples', name: '友链', icon: 'fa-solid fa-rss', link: 'https://www.yuanning0818.tk/friends', group: 'link'}
       - {id: 'contributors', name: '碎语', icon: 'fa-solid fa-fan', link: 'https://www.yuanning0818.tk/say', group: 'link'}
       - hr
-      - {id: 'source_docs', name: '本站源码', icon: 'fa-solid fa-code-branch', link: 'https://github.com/ning0818/hexoblog.git', group: 'link'}
       - {id: 'source_theme', name: '本站后台', icon: 'fa-solid fa-code-branch', link: 'https://admin.yuanning0818.tk', group: 'link'}
     darkMode:
-      - {id: 'darkMode', name: '暗黑模式', icon: 'fa-solid fa-moon', event: 'volantis.dark.toggle()', group: 'darkMode'}
+      - {id: 'darkMode', name: '深/浅色模式', icon: 'fa-solid fa-moon', event: 'volantis.dark.toggle()', group: 'darkMode'}
 ###
 
 
