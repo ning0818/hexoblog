@@ -6,7 +6,7 @@ sidebar: []
 twikoo:
   placeholder: 有什么想对我说的呢？
 ---
-<img src="https://imgapi.cn/ip.php?diy=5oe15oeC55qE5Yid5LiA5bCR5bm055qE5Y2a5a6i" class="lazyload loaded" srcset="https://imgapi.cn/ip.php?diy=5oe15oeC55qE5Yid5LiA5bCR5bm055qE5Y2a5a6i" alt="ip" data-ll-status="loaded">
+
 
 使用了 hexo 作为框架，主题是 volantis
 
