@@ -652,6 +652,8 @@ sidebar:
       rows:
         - name: 本站替换了原系统右键菜单，访问原系统右键菜单请按Ctrl+右键
           url: #
+    # ---------------------------------------
+    # list2
     list2:
       class: list2
       display: [desktop, mobile] # [desktop, mobile]
