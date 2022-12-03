@@ -175,7 +175,10 @@ navbar:
         - name: 后台管理
           icon: fa-sharp fa-solid fa-screwdriver-wrench
           url: https://admin.yuanning0818.tk
-        - name: 图床
+        - name: 图标库
+          icon: fa-duotone fa-icons
+          url: icons/
+        - name: 个人图床
           icon: fa-thin fa-image
           url: https://img.yuanning0818.tk
       search: Search...   # Search bar placeholder
