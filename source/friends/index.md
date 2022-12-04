@@ -21,7 +21,7 @@ LOGO：https://www.yuanning0818.tk/logo.png
 
 ## 友链申请
 
-请勿多次提交(提示:友链提交后可能会有报错的情况，属于正常情况，不影响友链申请的接收)
+请勿多次提交
 
 <div id="friends-api"></div>
 <script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
