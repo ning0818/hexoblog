@@ -697,8 +697,6 @@ sidebar:
           sitepv:
             text: '本站总访问量：'
             unit: '次'
-          content:
-            - <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
         lastupd:
           enable: true
           friendlyShow: true    # 更友好的时间显示
