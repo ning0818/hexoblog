@@ -154,9 +154,9 @@ navbar:
     - name: 关于
       icon: fa-solid fa-info-circle
       url: about/
-    - name: 留言板
-      icon: fa-sharp fa-solid fa-message
-      url: messages/
+    - name: 碎语
+      icon: fa-sharp fa-solid fa-comment
+      url: say/
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows:
@@ -172,12 +172,15 @@ navbar:
         - name: 新冠疫情实时图
           icon: fa-sharp fa-solid fa-chart-simple
           url: yiqing/
+        - name: 留言板
+          icon: fa-sharp fa-solid fa-message
+          url: messages/
         - name: 后台管理
           icon: fa-sharp fa-solid fa-screwdriver-wrench
           url: https://admin.yuanning0818.tk
         - name: 图标库
           icon: fa-solid fa-icons
-          url: icons/
+          url: https://fontawesome.com/search?o=r&s=solid&f=sharp
         - name: 个人图床
           icon: fa-regular fa-image
           url: https://img.yuanning0818.tk
