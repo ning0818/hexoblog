@@ -31,6 +31,10 @@ LOGO：https://www.yuanning0818.tk/logo.png
 
 ## 远航的伙伴
 
+---
+
+删除了本站友链或无法正常访问的站点将放到这里，储存期最长2个月
+
 {% btns circle grid5 %}
 {% endbtns %}
 
