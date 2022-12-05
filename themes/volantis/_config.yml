@@ -156,7 +156,7 @@ navbar:
       url: about/
     - name: 碎语
       icon: fa-sharp fa-solid fa-comment
-      url: say/
+      url: talks/
     - name: 更多
       icon: fa-solid fa-ellipsis-v
       rows:
