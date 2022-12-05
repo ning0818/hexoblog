@@ -6,22 +6,21 @@ date: '2022-12-03 15:05:17'
 tags:
 - 博客
 title: volantis页面底部访客人数不显示的解决办法
-updated: '2022-12-03 15:15:43'
+updated: '2022-12-05 11:05:04'
 ---
-最近，一篇文章里，收到反馈，访客人数不能正常显示，去网上找教程，全都是说解决next，里面说的文件我都找不到，然后看见volantis是用卜算子计数的，于是我就去官网看了看，仔细寻找，发现配置里的和官网的不一样，于是我就改成了卜算子官网的代码，解决了。
+最近，一篇文章里，收到反馈，访客人数不能正常显示，去网上找教程，全都是说解决next，里面说的文件我都找不到，然后去反馈，得到了回复，解决了。
 
-解决办法：把
+原因：
 
-```
-<span>本站总访问量为 <span id='busuanzi_value_site_pv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
-    <span>访客数为 <span id='busuanzi_value_site_uv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
-```
+是因为Volantis已经集成功能，你只需要配置js文件url，并开启busuanzi即可
+你的配置文件中并没有开启busuanzi导致js没有引入，故无法显示访问量，如下图：
 
-改为：
+解决办法：
 
-```
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_site_pv">本站总访问量为 <span id="busuanzi_value_site_pv"></span> 次</span>
-    <span>访客数为 <span id='busuanzi_value_site_uv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
-```
+_config.yml找到busuanzi，把true的注释去掉
+
+[![](https://camo.githubusercontent.com/60e9951b539f78b3c56328b9c2604be7428eedc831aeb9f850c71a1197d7af3f/68747470733a2f2f6b6a696d6731302e333630627579696d672e636f6d2f6f74742f6a66732f74312f39323033342f33392f33353338322f313238372f36333862303236664536383739396666612f316561656662356433393930373463312e706e67)](https://camo.githubusercontent.com/60e9951b539f78b3c56328b9c2604be7428eedc831aeb9f850c71a1197d7af3f/68747470733a2f2f6b6a696d6731302e333630627579696d672e636f6d2f6f74742f6a66732f74312f39323033342f33392f33353338322f313238372f36333862303236664536383739396666612f316561656662356433393930373463312e706e67)
+
+将#去掉，开启busuanzi即可。
 
 解决！
