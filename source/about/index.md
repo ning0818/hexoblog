@@ -32,8 +32,8 @@ twikoo:
 邮箱：yuanning0818@foxmail.com
 ### 特别感谢：
 <div class="btns circle grid5">
-            <a class="button" target="_blank" rel="noopener" href="https://www.yt-blog.top" title="动荡の初二少年"><img src="https://img.yt-blog.top/png/logo.png">一个少年的博客</a>
-          </div>
+<a class="button" target="_blank" rel="noopener" href="https://www.yt-blog.top" title="动荡の初二少年"><img src="https://img.yt-blog.top/png/logo.png">一个少年的博客</a>
+</div>
 ### 版权声明
 博客内的所有原创内容（包括但不限于文章、图像等）除特别声明外均采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议，任何人都可以自由传播，但不得用于商用且必须署名并以相同方式分享。
 
