@@ -25,14 +25,23 @@ twikoo:
 {% note message gray::note message gray 男 
 ~~极少上线~~几乎每天上线:grinning:！
 年龄：12｜初二（54学制）
+
 星座：狮子座
+
 属虎
+
 8项价值观政治测试 -民主社会主义
+
 喜好
+
 编程 唱歌
+
 联系方式
+
 邮箱：yuanning0818@foxmail.com
 %}
+
+
 
 ### 特别感谢：
 <div class="btns circle grid5">
