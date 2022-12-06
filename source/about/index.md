@@ -9,8 +9,9 @@ twikoo:
 
 
 使用了
-{% link Hexo::https://hexo.io/::[图片链接（可选）](https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets@master/logo/256/safari.png) %}
-作为框架，主题是 volantis
+{% link Hexo::https://hexo.io/::https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets@master/logo/256/safari.png %}
+作为框架，主题是
+{% link Volantis::https:// volantis.js.org/::https://unpkg.com/volantis-static@0.0.1660614606622/media/org.volantis/blog/favicon/apple-touch-icon.png %}
 
 
 声明
