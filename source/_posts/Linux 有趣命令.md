@@ -15,7 +15,9 @@ sl是指“steam locomotive（蒸汽机车）”，你会看到一辆火车从�
 安装  `$ sudo apt-get install sl`
 运行  `$ sl`
 
+{% gallery %}
 ![](https://i.postimg.cc/zfbGLvhJ/image.png)
+{% endgallery %}
 
 可以通过设置别名，给别人来个恶作剧，让ta敲ls就跑出个火车出来，不知道的肯定很有效果 O(∩_∩)O
 
@@ -31,11 +33,15 @@ sl是指“steam locomotive（蒸汽机车）”，你会看到一辆火车从�
 
 运行 `$fortune-zh`
 
+{% gallery %}
 ![](https://i.postimg.cc/T3SRXx4B/image.png)
+{% endgallery %}
 
 运行 `$fortune`
 
+{% gallery %}
 ![](https://i.postimg.cc/JzyLxgzx/image.png)
+{% endgallery %}
 
 **3. cowsay 命令**
 
@@ -45,19 +51,25 @@ sl是指“steam locomotive（蒸汽机车）”，你会看到一辆火车从�
 
 运行  `$cowsay "I am not a little cow, hahaha"`
 
+{% gallery %}
 ![](https://i.postimg.cc/ZKntYgpm/image.png)
+{% endgallery %}
 
 `$cowsay -l`  查看其它动物的名字，然后-f跟上动物名，如
 
 `$cowsay -f tux` "坑爹啊"
 
+{% gallery %}
 ![](https://i.postimg.cc/1tKXST66/image.png)
+{% endgallery %}
 
 还可以让cowsay说出fortune的内容，就像这样：
 
 `$fortune-zh | cowsay`
 
+{% gallery %}
 ![](https://i.postimg.cc/1tKXST66/image.png)
+{% endgallery %}
 
 **4. cmatrix 命令**
 
@@ -67,7 +79,9 @@ sl是指“steam locomotive（蒸汽机车）”，你会看到一辆火车从�
 
 运行   `$cmatrix`
 
+{% gallery %}
 ![](https://i.postimg.cc/Gt5ch1pB/image.png)
+{% endgallery %}
 
 **5. figlet、toilet命令**
 
@@ -79,13 +93,18 @@ $sudo apt-get install toilet
 运行  `$figlet I Love YOU Rom-Qian`
 
 $toilet I Love You  Rom-Qian
+
+{% gallery %}
 ![](https://i.postimg.cc/59R1zbxy/image.png)
+{% endgallery %}
 
 toilet还可以添加颜色，里面的选项请自己man一下
 
 `$ toilet -f mono12 -F gay Rom-Qian`
 
+{% gallery %}
 ![](https://i.postimg.cc/sxttNfXJ/image.png)
+{% endgallery %}
 
 **6. oneko 命令**
 
@@ -95,7 +114,9 @@ toilet还可以添加颜色，里面的选项请自己man一下
 
 运行` $oneko`
 
+{% gallery %}
 ![](https://i.postimg.cc/g2yfgWPv/08154053-d25763e5c5974b22b824ff8053698b9a.png)
+{% endgallery %}
 
 要关掉这家伙，只能按 Ctrl+c 终止结束
 
@@ -107,7 +128,9 @@ toilet还可以添加颜色，里面的选项请自己man一下
 
 运行 `$xeyes`
 
+{% gallery %}
 ![](https://i.postimg.cc/XqwTtSCS/08154654-0671839c0c444d3c8ffd47d19f1adcb0.png)
+{% endgallery %}
 
 **8. yes 命令**
 
@@ -121,7 +144,9 @@ cal是打印日历，不过这个是很奇葩的一个月
 
 `$ cal 9 1752`
 
+{% gallery %}
 ![](https://i.postimg.cc/50zGFdpY/image.png)
+{% endgallery %}
 
 **10. shred**
 
@@ -135,7 +160,9 @@ cal是打印日历，不过这个是很奇葩的一个月
 $ factor 60
 ```
 
+{% gallery %}
 ![](https://i.postimg.cc/wjBGQs0d/image.png)
+{% endgallery %}
 
 **12.** 挨个敲下面这一堆, aptitude没有的可以安装上
 
@@ -153,7 +180,9 @@ aptitude -vvvvvvv moo
 
 运行结果：
 
+{% gallery %}
 ![](https://i.postimg.cc/d3vWk7Lp/image.png)
+{% endgallery %}
 
 Linux还有很多好玩的命令，不得不感叹开源系统的强大！
 
