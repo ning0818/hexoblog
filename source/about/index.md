@@ -8,7 +8,9 @@ twikoo:
 ---
 
 
-使用了 hexo 作为框架，主题是 volantis
+使用了
+{% link Hexo::https://hexo.io/::[图片链接（可选）](https://gcore.jsdelivr.net/gh/xaoxuu/cdn-assets@master/logo/256/safari.png) %}
+作为框架，主题是 volantis
 
 
 声明
@@ -43,4 +45,4 @@ twikoo:
 我们发现您违反了本站已发布的条款或声明。
 ```
 
-觉得本站还不错？赶快`Ctrl`+`D`收藏吧！
+觉得本站还不错？赶快{% kbd Ctrl %} + {% kbd D %}收藏吧！
