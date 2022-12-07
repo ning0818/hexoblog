@@ -107,3 +107,8 @@ deploy:
   type: git
   repo: https://github.com/ning0818/ning0818.github.io.git
   branch: main
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
