@@ -1,16 +1,18 @@
 ---
 abbrlink: ''
-categories: []
+categories:
+- - 加速
+- - github
 date: '2022-12-08 08:26:04'
-tags: []
+tags:
+- 加速
+- github
 title: github超级加速
-updated: '2022-12-08 08:26:04'
+updated: '2022-12-08 08:52:50'
 ---
 有一天我和大佬（一个超厉害的老师）抱怨无法正常访问GitHub的时候，大佬指着屏幕上的fast GitHub和我说试试这个
 
-
-
- ![https://image.yuanning0818.tk/1670459928306.png](https://image.yuanning0818.tk/1670459928306.png)
+![https://image.yuanning0818.tk/1670459928306.png](https://image.yuanning0818.tk/1670459928306.png)
 
 真是不试不知道 ,一试吓一跳！
 
@@ -22,20 +24,17 @@ updated: '2022-12-08 08:26:04'
 
 进入这个界面，在这里选择版本
 
-
- ![https://image.yuanning0818.tk/1670460215805.png](https://image.yuanning0818.tk/1670460215805.png)
+![https://image.yuanning0818.tk/1670460215805.png](https://image.yuanning0818.tk/1670460215805.png)
 
 下载完成后
 
 解压运行
 
-
- ![https://image.yuanning0818.tk/1670460439782.png](https://image.yuanning0818.tk/1670460439782.png)
+![https://image.yuanning0818.tk/1670460439782.png](https://image.yuanning0818.tk/1670460439782.png)
 
 注意，这个窗口不要关闭！
 
-
- ![https://image.yuanning0818.tk/1670460504132.png](https://image.yuanning0818.tk/1670460504132.png)
+![https://image.yuanning0818.tk/1670460504132.png](https://image.yuanning0818.tk/1670460504132.png)
 
 # 2.github文件下载加速
 
@@ -44,4 +43,4 @@ updated: '2022-12-08 08:26:04'
 
 `http://toolwa.com/github/`
 
-把链接放到输入框然后互下载即可！
+把链接放到输入框然后下载即可！
