@@ -766,8 +766,7 @@ site_footer:
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using busuanzi
   analytics: >
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_site_pv">本站总访问量 <span id="busuanzi_value_site_pv"></span> 次</span>
-    <span>访客数为 <span id='busuanzi_value_site_uv'><i class="fa-solid fa-loader fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
+    <div><p>站点访问量 <span id="qexo-site-pv"><i class="fas fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span>站点访客数 <span id="qexo-site-uv"><i class="fas fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span>页面访问量 <span id="qexo-page-pv"><i class="fas fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span><script src="https://unpkg.com/qexo-static@1.3.0/hexo/statistic/statistic.js"></script>
   # site copyright
   copyright: '[Copyright © 2022 阳光下的小宁宁 版权所有](/)'
   icp: '<a href="https://icp.gov.moe/?keyword=20221982" target="_blank">萌ICP备20221982号</a>'
