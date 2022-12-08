@@ -604,6 +604,8 @@ sidebar:
           url: /atom.xml
         - icon: fa-solid fa-envelope
           url: mailto:yuanning0818@foxmail.com
+        - icon: fa-sharp fa-solid fa-train-subway
+          url: https://travellings.link/
         - icon: fab fa-github
           url: https://github.com/ning0818/
         - icon: fa-solid fa-headphones-alt
