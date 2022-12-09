@@ -10,7 +10,7 @@ sidebar: []
 <div id="artitalk_main"></div>
 <script>
 new Artitalk({
-    appId: '', // Your LeanCloud appId
-    appKey: '' // Your LeanCloud appKey
+    appId: 'o27LKehSttSEyWTAAimzyh33-MdYXbMMI', // Your LeanCloud appId
+    appKey: 'nhSvyeqIaAaC8vsnDAk7JF26' // Your LeanCloud appKey
 })
 </script>
