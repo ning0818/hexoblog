@@ -1,6 +1,6 @@
 ---
 seo_title: 说说
-comments: false
+comments: true
 plugins:
   - artitalk
   # - bbtalk
