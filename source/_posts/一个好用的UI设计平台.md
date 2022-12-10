@@ -8,7 +8,7 @@ tags:
 - 设计
 - 工具
 title: title一个好用的UI设计平台
-updated: '2022-12-09 18:26:48'
+updated: '2022-12-10 13:01:24'
 ---
 一个好用的UI设计平台，链接[https://www.figma.com/](https://www.figma.com/)
 
@@ -16,10 +16,12 @@ updated: '2022-12-09 18:26:48'
 
 截图：
 
+![https://image.yuanning0818.tk/1670581938122.png](https://image.yuanning0818.tk/1670581938122.png)
 
- ![https://image.yuanning0818.tk/1670581938122.png](https://image.yuanning0818.tk/1670581938122.png)
+
+ ![https://image.yuanning0818.tk/1670648552098.png](https://image.yuanning0818.tk/1670648552098.png)
 
 
- ![https://image.yuanning0818.tk/1670581968338.png](https://image.yuanning0818.tk/1670581968338.png)
+ ![https://image.yuanning0818.tk/1670648574912.png](https://image.yuanning0818.tk/1670648574912.png)
 
 ~~史上最短的一篇博文~~
