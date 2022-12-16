@@ -185,7 +185,7 @@ navbar:
           icon: fa-regular fa-image
           url: https://image.yuanning0818.tk
         - name: 网盘
-          icon: fa-regular fa-image
+          icon: fa-sharp fa-solid fa-cloud
           url: https://pan.yuanning0818.tk
       search: Search...   # Search bar placeholder
 ############################### Navigation Bar ############################### > end
