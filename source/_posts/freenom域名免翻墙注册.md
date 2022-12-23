@@ -6,7 +6,7 @@ date: '2022-12-23 12:59:23'
 tags:
 - '白嫖 '
 title: freenom域名免翻墙注册
-updated: '2022-12-23 13:12:15'
+updated: '2022-12-23 14:31:20'
 ---
 **1.在edge浏览器中搜索并安装插件：Gooreplacer**重定向中新增：匹配模式:https://www.google.com/recaptcha,目标地址:https://www.recaptcha.net/recaptcha,其它不用动。如图:
 
@@ -14,7 +14,10 @@ updated: '2022-12-23 13:12:15'
 
 注意，这一步很重要，如果没有这一步，你就需要挂梯子
 
-2.到这里[Shopping Cart - Freenom](https://my.freenom.com/cart.php?a=view)，在下面输入邮箱，然后按回车，然后去你的邮箱验证，验证成功后回到freenom填信息
+2.到这里，在下面输入邮箱，然后按回车，然后去你的邮箱验证，验证成功后回到freenom填信息
+
+
+ ![https://image.yuanning0818.tk/1671777355689.png](https://image.yuanning0818.tk/1671777355689.png)
 
 3.回到这里[Freenom - 人人都熟悉的名字](https://www.freenom.com/zh/index.html?lang=zh)，点击右上角的登入，登录你的账号
 
