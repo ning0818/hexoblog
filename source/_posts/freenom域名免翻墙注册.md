@@ -14,7 +14,7 @@ updated: '2022-12-23 14:31:20'
 
 注意，这一步很重要，如果没有这一步，你就需要挂梯子
 
-2.到这里，在下面输入邮箱，然后按回车，然后去你的邮箱验证，验证成功后回到freenom填信息
+2.到这里[https://my.freenom.com/cart.php?a=add&pid=6](https://my.freenom.com/cart.php?a=add&pid=6 "https://my.freenom.com/cart.php?a=add&amp;pid=6")，在下面输入邮箱，然后按回车，然后去你的邮箱验证，验证成功后回到freenom填信息
 
 
  ![https://image.yuanning0818.tk/1671777355689.png](https://image.yuanning0818.tk/1671777355689.png)
@@ -40,5 +40,8 @@ updated: '2022-12-23 14:31:20'
 ![https://image.yuanning0818.tk/1671772173536.png](https://image.yuanning0818.tk/1671772173536.png)
 
 然后，红圈设置dns服务器，绿圈设置域名解析
+
+
+ ![https://image.yuanning0818.tk/1671777736634.png](https://image.yuanning0818.tk/1671777736634.png)
 
 done
