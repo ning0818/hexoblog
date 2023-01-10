@@ -8,7 +8,6 @@ tags:
 - Discuz!
 - 教程
 title: profreehost+discuz!搭建论坛 (1) 程序上传
-updated: '2023-01-10 13:15:46'
 ---
 # 演示效果：[阳光下的小宁宁の论坛](http://yuanning0818.unaux.com/)
 
