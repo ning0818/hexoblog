@@ -6,9 +6,9 @@ date: '2023-01-11 16:19:53'
 tags:
 - Discuz!
 title: Discuz! 优化 (1) 配置邮件验证
-updated: '2023-01-11 16:19:54'
+updated: '2023-01-11 16:39:01'
 ---
-在 discuz 后台的 站长 - 邮件设置 里
+1.在 discuz 后台的 站长 - 邮件设置 里
 
 ![https://image.yuanning0818.tk/1673425453587.png](https://image.yuanning0818.tk/1673425453587.png)
 
@@ -26,7 +26,10 @@ SMTP 服务器固定：163 网易填 ssl://smtp.163.com ，QQ 邮箱则填 ssl:/
 SMTP 身份验证用户名：你的邮箱（例如：abc@163.com）
 SMTP 身份验证密码：填写授权码（生成方式见下）
 
-2.授权码获取
+2. 进入全局>注册与访问控制，如图操作![https://image.yuanning0818.tk/1673426414642.png](https://image.yuanning0818.tk/1673426414642.png)![https://image.yuanning0818.tk/1673426446020.png](https://image.yuanning0818.tk/1673426446020.png)
+
+
+3.授权码获取
 
 ① 163邮箱
 
